@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Painting
+2. Reading Books
+3. Music
+   1. Soul songs
+   2. Romantic songs
